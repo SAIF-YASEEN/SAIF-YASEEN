@@ -1,4 +1,19 @@
+# 👋 Hi, I'm Saif Ur Rehman
 
+### 💻 Full-Stack Software Engineer | AI & Python | Cybersecurity
+
+I'm a **Full-Stack Software Engineer** focused on building modern, scalable web applications and backend systems.  
+Currently pursuing **BS Computer Science at Iqra University** and expanding my skills in **AI, Python, cybersecurity, cloud, and software engineering**.
+
+### 🚀 Currently Working On
+- 🌐 Full-Stack Web Applications & MERN Projects
+- 🤖 Python, AI & Automation
+- 🔐 Cybersecurity & Secure Backend Systems
+- 📱 React Native & Mobile Applications
+- 🧠 Computer Science, System Design & Software Engineering
+
+### 🛠️ Core Focus
+**Frontend • Backend • Databases • APIs • AI • Python • Cybersecurity • Cloud • DevOps**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saifurrehman___0708) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saif0708) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@saif ur rehman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifurrehman0708@gmail.com) 
 
