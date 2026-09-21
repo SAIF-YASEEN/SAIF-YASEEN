@@ -14,6 +14,9 @@ Currently pursuing **BS Computer Science at Iqra University** and expanding my s
 
 ### 🛠️ Core Focus
 **Frontend • Backend • Databases • APIs • AI • Python • Cybersecurity • Cloud • DevOps**
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SAIF-YASEEN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saifurrehman___0708) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saif0708) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifurrehman0708@gmail.com) 
 
